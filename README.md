@@ -4,7 +4,7 @@
 
 > 💥 Trilha Explorer
 
-Projecto construido do evento Next Level Week da Rocketseat.
+Projecto construido no evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://wiligramas.github.io/NLW_Explore_08_2022/)
 
@@ -19,6 +19,7 @@ Projecto construido do evento Next Level Week da Rocketseat.
 ##  🤙  Contactos
 
 007gramas@gmail.com
+
 wiligramas007@hotmail.com
 
 +244 933647402
